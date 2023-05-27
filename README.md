@@ -1,5 +1,3 @@
-I’m on a mission to advance NLP through publishing open-source tools and creating educational content.
-
 Company/blog: https://www.vennify.ai/
 
 Courses: https://www.udemy.com/user/vennify-inc/
