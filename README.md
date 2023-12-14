@@ -1,7 +1,5 @@
 Company/blog: https://www.vennify.ai/
 
-Courses: https://www.udemy.com/user/vennify-inc/
-
 YouTube: https://www.youtube.com/channel/UC7-EWrr8YdcQgPPk76OiUVw
 
 Medium: https://medium.com/@ericfillion
